@@ -44,11 +44,11 @@
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient)., Python (strong), Go, Shell (familiar)"
+			"details": "Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient)., Python (strong), Go, Shell (familiar), English"
 		},
 		{
 			"section": "Frameworks:",
-			"details": "Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap"
+			"details": "Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap, Flask"
 		},
 		{
 			"section": "Tools:",
@@ -56,7 +56,7 @@
 		},
 		{
 			"section": "Other:",
-			"details": "AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare"
+			"details": "AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare, Azure"
 		}
 	],
 	"workExperiences": [
@@ -81,8 +81,8 @@
 	],
 	"interests": [
 		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
-		"Typing : 60 WPM, 100% accuracy",
-		"Games : Music games, FPS, MOBA, Puzzle",
+		"Typing : 50 WPM, 100% accuracy",
+		"Games : none",
 		"Music : Anything...",
 		"Remote working is a OK. I extensively use self time tracking app for all my works."
 	],
