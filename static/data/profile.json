@@ -61,11 +61,16 @@
 	],
 	"workExperiences": [
 		{
-			"position": "",
-			"company": "",
-			"url": "",
-			"years": [""],
+			"position": "Student President Founder",
+			"company": "Genxl",
+			"url": "gnxl.org",
+			"years": ["2024 - Now"],
 			"details": [
+				"Teaching and mentoring students in coding and programming fundamentals",
+				"Building an active student community focused on technology education",
+				"Planning and executing coding projects to enhance student learning",
+				"Organizing educational workshops and study groups for student development",
+				"Leading project-based learning initiatives to help students gain practical coding experience"
 			]
 		}
 	],

@@ -1,0 +1,93 @@
+{
+	"intro": {
+		"name": "Nattawatt Hongthong",
+		"nickname": "Khong",
+		"phone": "+66941656153",
+		"email": "nattawatt.ho30@outlook.co.th",
+		"github": "RealNattawattHongthong",
+		"linkedin": "https://www.linkedin.com/in/nattawatt-hongthong/",
+		"location": "Bangkok, Thailand",
+		"website": "nattawatt.com"
+	},
+	"projects": [
+		{
+			"name": "Main webpage",
+			"details": "Main webpage",
+			"url": "nattawatt.com",
+			"hide": false
+		},
+		{
+			"name": "Digital Garden",
+			"details": "My notes & stuff (Second Brain)",
+			"url": "github.com/RealNattawattHongthong/digital-garden",
+			"hide": false
+		},
+		{
+			"name": "List of Hello World!",
+			"details": "Contribute with 10+ Contributor!, your own Hello World! in any language.",
+			"url": "github.com/TheKaushikGoswami/hello-world",
+			"hide": false
+		},
+		{
+			"name": "Linktree",
+			"details": "List of my social media links",
+			"url": "tree.nattawatt.com",
+			"hide": false
+		},
+		{
+			"name": "Thaiquote",
+			"details": "random thai quote generator",
+			"url": "thaiquote.nattawatt.com",
+			"hide": false
+		}
+	],
+	"technologies": [
+		{
+			"section": "Languages:",
+			"details": "Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient)., Python (strong), Go, Shell (familiar), English"
+		},
+		{
+			"section": "Frameworks:",
+			"details": "Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap, Flask"
+		},
+		{
+			"section": "Tools:",
+			"details": "Git, Terraform, Docker, Kubernetes, Helm, ArgoCD, FluxCD, Robot Framework, Selenium, Zsh, GitHub Codespaces"
+		},
+		{
+			"section": "Other:",
+			"details": "AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare, Azure"
+		}
+	],
+	"workExperiences": [
+		{
+			"position": "",
+			"company": "",
+			"url": "",
+			"years": [""],
+			"details": [
+			]
+		}
+	],
+	"educations": [
+		{
+			"head": " Bodindecha (Sing Singhaseni) School",
+			"details": "Bodindecha (Sing Singhaseni) School, TH. 2024 - Now"
+		},
+		{
+			"head": "Chonradsadornumrung School",
+			"details": "Chonradsadornumrung School (English Prgram Dept.), TH. 2021-2023 (GPA 3.42)"
+		}
+	],
+	"interests": [
+		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
+		"Typing : 50 WPM, 100% accuracy",
+		"Games : none",
+		"Music : Anything...",
+		"Remote working is a OK. I extensively use self time tracking app for all my works."
+	],
+	"resumeUrl": {
+		"sourceLink": "https://github.com/RealNattawattHongthong",
+		"fullVersion": "https://resume.nattawatt.com"
+	}
+}
